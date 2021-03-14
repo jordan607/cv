@@ -1,0 +1,31 @@
+body{
+  background-color: #e3fdfd;
+}
+
+hr{
+
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 5px;
+  width: 8%;
+}
+
+h1:hover{
+  background-color: gold;
+
+}
+
+h1{
+  color: #440a67;
+}
+
+h2{
+  color: #440a67;
+}
+
+.education{
+  color: green;
+}
+#image{
+  border-radius:100%;
+}
